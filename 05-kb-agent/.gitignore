@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# 运行时生成的向量库
+chroma_db/
+
+# 评测报告（可运行 evaluate.py 重新生成）
+eval/report.json

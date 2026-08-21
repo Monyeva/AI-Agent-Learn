@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+
+# Claude Code 本地配置（含权限等，不公开）
+.claude/
+
+# 运行时生成的向量库（可运行代码重新生成）
+chroma_db/
+
+# Agent 运行时产物
+outbox/
+output/
+
+# 评测报告（可运行 evaluate.py 重新生成，qa_pairs.json 保留）
+eval/report.json

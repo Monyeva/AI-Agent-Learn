@@ -1,0 +1,42 @@
+[
+  {
+    "question": "启明星科技的主打产品是什么？",
+    "expected_keywords": ["星图", "Agent平台"]
+  },
+  {
+    "question": "启明星科技成立于哪一年，总部在哪里？",
+    "expected_keywords": ["2020", "杭州"]
+  },
+  {
+    "question": "星图平台内置了哪些类型的工具？",
+    "expected_keywords": ["数据库查询", "Excel"]
+  },
+  {
+    "question": "星图平台的免费版可以创建几个Agent？",
+    "expected_keywords": ["免费版", "1000次"]
+  },
+  {
+    "question": "专业版定价多少钱，包含哪些权益？",
+    "expected_keywords": ["299", "10个Agent", "10万次"]
+  },
+  {
+    "question": "企业版支持私有化部署吗？",
+    "expected_keywords": ["私有化部署", "定制报价"]
+  },
+  {
+    "question": "启明星科技共完成了几轮融资？",
+    "expected_keywords": ["三轮", "2亿"]
+  },
+  {
+    "question": "启明星科技的创始人兼CEO是谁？",
+    "expected_keywords": ["陈铭", "达摩院"]
+  },
+  {
+    "question": "启明星科技的技术负责人研究什么方向？",
+    "expected_keywords": ["李哲", "向量检索"]
+  },
+  {
+    "question": "启明星科技提供什么样的技术支持？",
+    "expected_keywords": ["7x24"]
+  }
+]

@@ -1,0 +1,10 @@
+# 企业知识库问答 Agent 依赖
+# 安装：pip install -r requirements.txt
+# 说明：以下为开发/测试所用版本，>= 即可兼容（gradio 需 >= 6，界面用到新 API）
+
+gradio>=6.0.0
+langgraph>=1.0.0
+langchain-core>=1.0.0
+langchain-openai>=1.0.0
+sentence-transformers>=5.0.0
+chromadb>=1.0.0
